@@ -1,0 +1,239 @@
+{
+	"name":"Reading 2013",
+	"locations":[
+		{
+			"name":"Main Stage",
+			"events":[
+				{"name":"While She Sleeps","short":"whiles(1)","start":"2013-08-23 12:30","end":"2013-08-23 13:10","mbId":"24e58672-0956-4e3b-87a4-aaf3d52094aa"},
+				{"name":"Skindred","short":"skindr(1)","start":"2013-08-23 13:30","end":"2013-08-23 14:15","mbId":"36e371e9-e76b-4b66-b813-e1d1af6d7128"},
+				{"name":"New Found Glory","short":"newfou(1)","start":"2013-08-23 14:35","end":"2013-08-23 15:20","mbId":"6acb932e-840d-47ac-8e0d-725ad8a6e52c"},
+				{"name":"Bring Me the Horizon","short":"bringm(1)","start":"2013-08-23 15:40","end":"2013-08-23 16:30","mbId":"074e3847-f67f-49f9-81f1-8c8cea147e8e"},
+				{"name":"Frank Turner","short":"frankt(1)","start":"2013-08-23 16:50","end":"2013-08-23 17:40","mbId":"aca5718f-4f49-4439-b8f6-209db3f11757"},
+				{"name":"Deftones","short":"defton(1)","start":"2013-08-23 18:00","end":"2013-08-23 18:50","mbId":"7527f6c2-d762-4b88-b5e2-9244f1e34c46"},
+				{"name":"System of a Down","short":"system(1)","start":"2013-08-23 19:15","end":"2013-08-23 20:30","mbId":"cc0b7089-c08d-4c10-b6b0-873582c17fd6"},
+				{"name":"Green Day","short":"greend(1)","start":"2013-08-23 21:00","end":"2013-08-23 23:30","mbId":"ff9a266d-ef7c-45bb-8173-b89f8d45ad6b"}
+			]
+		},
+		{
+			"name":"NME\/Radio 1 Stage",
+			"events":[
+				{"name":"Kodaline","short":"kodali(1)","start":"2013-08-23 12:30","end":"2013-08-23 13:10","mbId":"74aab3b7-93a5-473c-a729-f975234c58b6"},
+				{"name":"Deap Vally","short":"deapva(1)","start":"2013-08-23 13:30","end":"2013-08-23 14:15","mbId":"6f794982-c5f3-462c-ad0e-9319f43c7a8e"},
+				{"name":"Fidlar","short":"fidlar(1)","start":"2013-08-23 14:35","end":"2013-08-23 15:20","mbId":"6910222b-74c2-48fc-8c13-a6b88cc28fc0"},
+				{"name":"Peace","short":"peace(1)","start":"2013-08-23 15:40","end":"2013-08-23 16:25","mbId":"1c54c526-682b-44e8-933a-fe8c2993402b"},
+				{"name":"Frightened Rabbit","short":"fright(1)","start":"2013-08-23 16:45","end":"2013-08-23 17:30","mbId":"dc21d171-7204-4759-9fd0-77d031aeb40c"},
+				{"name":"Bastille","short":"bastil(1)","start":"2013-08-23 17:50","end":"2013-08-23 18:35","mbId":"7808accb-6395-4b25-858c-678bbb73896b"},
+				{"name":"Major Lazer","short":"majorl(1)","start":"2013-08-23 18:55","end":"2013-08-23 19:45","mbId":"75be165a-ad83-4d12-bd28-f589a15c479f"},
+				{"name":"A$AP Rocky","short":"aaproc(1)","start":"2013-08-23 20:10","end":"2013-08-23 21:00","mbId":"25b7b584-d952-4662-a8b9-dd8cdfbfeb64"},
+				{"name":"Skrillex","short":"skrill(1)","start":"2013-08-23 21:30","end":"2013-08-23 23:30","mbId":"ae002c5d-aac6-490b-a39a-30aa9e2edf2b"}
+			]
+		},
+		{
+			"name":"BBC Radio 1 Dance Stage",
+			"events":[
+				{"name":"Robert DeLong","short":"robert(1)","start":"2013-08-23 13:30","end":"2013-08-23 14:00","mbId":"ccac6c50-ead7-4cd1-a025-379fbb13f0d9"},
+				{"name":"Bondax","short":"bondax(1)","start":"2013-08-23 14:15","end":"2013-08-23 14:55","mbId":"7182bcb5-0d37-4492-8452-464febd77844"},
+				{"name":"Is Tropical","short":"istrop(1)","start":"2013-08-23 15:10","end":"2013-08-23 15:50","mbId":"fa5cf25e-7c95-47e3-b5e9-410c7bb0e939"},
+				{"name":"Clean Bandit","short":"cleanb(1)","start":"2013-08-23 16:05","end":"2013-08-23 16:45","mbId":"dacc2d64-7e59-42a8-87a9-10c53919aff2"},
+				{"name":"Friction","short":"fricti(1)","start":"2013-08-23 17:00","end":"2013-08-23 17:40","mbId":"da5268ad-4cbb-49e5-9242-75d61aeffb55"},
+				{"name":"Iggy Azalea","short":"iggyaz(1)","start":"2013-08-23 17:55","end":"2013-08-23 18:40","mbId":"3a052c99-8c18-484a-8beb-9873b4fb3106"},
+				{"name":"Fenech-Soler","short":"fenech(1)","start":"2013-08-23 18:55","end":"2013-08-23 19:40","mbId":"5b234e2f-f1fc-45f9-9cba-e69d230fd37a"},
+				{"name":"Sub Focus","short":"subfoc(1)","start":"2013-08-23 20:00","end":"2013-08-23 21:00","mbId":"8cf49f40-b8fe-4a63-b4ea-f922d6145bb4"}
+			]
+		},
+		{
+			"name":"Lock Up Stage",
+			"events":[
+				{"name":"Cerebral Ballzy","short":"cerebr(1)","start":"2013-08-23 14:45","end":"2013-08-23 15:20","mbId":"5e3ae639-40d7-40c4-8a2c-6f0c327cb288"},
+				{"name":"The Computers","short":"thecom(1)","start":"2013-08-23 15:35","end":"2013-08-23 16:15","mbId":"2b14359b-de45-4d31-999e-a1d024ba1f63"},
+				{"name":"Quicksand","short":"quicks(1)","start":"2013-08-23 16:30","end":"2013-08-23 17:15","mbId":"3c9f8bef-a658-4204-9ee8-7e95d2535b32"},
+				{"name":"RX Bandits","short":"rxband(1)","start":"2013-08-23 17:30","end":"2013-08-23 18:20","mbId":"71fc5761-1ad7-4756-85ed-291d55bc677e"},
+				{"name":"The Living End","short":"theliv(1)","start":"2013-08-23 18:40","end":"2013-08-23 19:30","mbId":"cca49e52-1f1e-4c16-9e40-fedebcea065e"},
+				{"name":"Alkaline Trio","short":"alkali(1)","start":"2013-08-23 20:00","end":"2013-08-23 21:00","mbId":"69421e11-e4c3-4854-951b-ceab4972e38e"}
+			]
+		},
+		{
+			"name":"Festival Republic Stage",
+			"events":[
+				{"name":"MMX","short":"mmx(1)","start":"2013-08-23 13:30","end":"2013-08-23 14:00","mbId":"c9c1d43d-7152-422c-9a11-728684de813b"},
+				{"name":"Findlay","short":"findla(1)","start":"2013-08-23 14:15","end":"2013-08-23 14:45","mbId":"457873a5-51a4-48d8-8e0c-4bf1780a2a6b"},
+				{"name":"Half Moon Run","short":"halfmo(1)","start":"2013-08-23 15:00","end":"2013-08-23 15:30","mbId":"b48e0b4e-587b-4fb4-9706-78dfd1a5ea92"},
+				{"name":"MS MR","short":"msmr(1)","start":"2013-08-23 15:45","end":"2013-08-23 16:20","mbId":"f76691fd-82e6-4eb4-b1bb-1f1745f4c7d1"},
+				{"name":"MØ","short":"m(1)","start":"2013-08-23 16:35","end":"2013-08-23 17:10","mbId":"e6b4482f-29bb-483b-aec5-a2fbad6083d4"},
+				{"name":"Temples","short":"temple(1)","start":"2013-08-23 17:25","end":"2013-08-23 18:00","mbId":"1916fc94-bf9c-4ba2-90b0-22ebb5444d57"},
+				{"name":"Kate Nash","short":"katena(1)","start":"2013-08-23 18:15","end":"2013-08-23 18:55","mbId":"49018fd2-95ef-4f7e-92bb-813159909314"},
+				{"name":"The Strypes","short":"thestr(1)","start":"2013-08-23 19:15","end":"2013-08-23 19:55","mbId":"bb47c3a3-eb2c-431f-8d29-8c3e4ee86e15"},
+				{"name":"Surfer Blood","short":"surfer(1)","start":"2013-08-23 20:15","end":"2013-08-23 21:00","mbId":"f11ab2aa-4a60-49b2-b37b-505a05b5d179"},
+				{"name":"CHVRCHES","short":"chvrch(1)","start":"2013-08-23 21:20","end":"2013-08-23 22:05","mbId":"6a93afbb-257f-4166-b389-9f2a1e5c5df8"},
+				{"name":"Crystal Fighters","short":"crysta(1)","start":"2013-08-23 22:30","end":"2013-08-23 23:30","mbId":"309ec98f-3066-4501-8761-1db9fb0c7a83"}
+			]
+		},
+		{
+			"name":"BBC Radio 1Xtra Stage",
+			"events":[
+				{"name":"Murkage","short":"murkag(1)","start":"2013-08-23 12:30","end":"2013-08-23 13:00","mbId":"c6b645f1-140d-4c37-8391-4edb6131f0a5"},
+				{"name":"Scruffizer","short":"scruff(1)","start":"2013-08-23 13:15","end":"2013-08-23 13:50","mbId":"na"},
+				{"name":"Nathan Flutebox Lee & The Clinic","short":"nathan(1)","start":"2013-08-23 14:05","end":"2013-08-23 14:45","mbId":"65d609dd-e927-4133-a2ba-37e999c129b6"},
+				{"name":"Stylo G","short":"stylog(1)","start":"2013-08-23 15:00","end":"2013-08-23 15:40","mbId":"ae41ccb4-48cb-463a-841e-d9eb0a265d94"},
+				{"name":"Left Boy","short":"leftbo(1)","start":"2013-08-23 15:55","end":"2013-08-23 16:40","mbId":"529d04b8-20ed-43b9-b472-726039fd747d"},
+				{"name":"P-Money","short":"pmoney(1)","start":"2013-08-23 16:55","end":"2013-08-23 17:40","mbId":"f8356d6d-8a31-4a0d-8488-37141330998c"},
+				{"name":"The Toddla T Sound","short":"thetod(1)","start":"2013-08-23 17:55","end":"2013-08-23 18:40","mbId":"88181b07-1c34-4de8-be29-3a77780d8209"},
+				{"name":"Wiley","short":"wiley(1)","start":"2013-08-23 19:00","end":"2013-08-23 20:00","mbId":"d0f61299-9caa-4e6b-8b10-2839de120b27"}
+			]
+		},
+		{
+			"name":"Main Stage",
+			"events":[
+				{"name":"Mallory Knox","short":"mallor(1)","start":"2013-08-24 12:30","end":"2013-08-24 13:10","mbId":"94281561-7c6a-48ac-9c71-8f09ce8255ce"},
+				{"name":"Lower Than Atlantis","short":"lowert(1)","start":"2013-08-24 13:30","end":"2013-08-24 14:15","mbId":"511c4699-2c7c-4c59-a38c-325f5874d563"},
+				{"name":"The Blackout","short":"thebla(1)","start":"2013-08-24 14:35","end":"2013-08-24 15:25","mbId":"9358abb2-7429-4fd7-8b8b-182624bda057"},
+				{"name":"Twin Atlantic","short":"twinat(1)","start":"2013-08-24 15:45","end":"2013-08-24 16:35","mbId":"98a819b7-2634-4987-815b-bc66182dc97f"},
+				{"name":"Brand New","short":"brandn(1)","start":"2013-08-24 16:55","end":"2013-08-24 17:45","mbId":"9b8d6e2c-2b4e-4924-82ae-226b4e701f6b"},
+				{"name":"White Lies","short":"whitel(1)","start":"2013-08-24 18:05","end":"2013-08-24 18:55","mbId":"5bdb38bd-5c5b-4d0f-8901-8bbe1d7062d8"},
+				{"name":"Foals","short":"foals(1)","start":"2013-08-24 19:15","end":"2013-08-24 20:05","mbId":"6a65d878-fcd0-42cf-aff9-ca1d636a8bcc"},
+				{"name":"Chase & Status","short":"chases(1)","start":"2013-08-24 20:30","end":"2013-08-24 21:30","mbId":"82e454e2-38ee-4e69-89a6-cc65167753d1"},
+				{"name":"Eminem","short":"eminem(1)","start":"2013-08-24 22:00","end":"2013-08-24 23:30","mbId":"b95ce3ff-3d05-4e87-9e01-c97b66af13d4"}
+			]
+		},
+		{
+			"name":"NME\/Radio 1 Stage",
+			"events":[
+				{"name":"Theme Park","short":"themep(1)","start":"2013-08-24 14:30","end":"2013-08-24 15:15","mbId":"93d18f74-9587-4707-8b72-cffca9e34fed"},
+				{"name":"Modestep","short":"modest(1)","start":"2013-08-24 15:35","end":"2013-08-24 16:20","mbId":"04ef7efd-f54e-49b2-a367-bc4ed6c172f0"},
+				{"name":"Palma Violets","short":"palmav(1)","start":"2013-08-24 16:40","end":"2013-08-24 17:25","mbId":"fe756f55-e4ef-4eb0-a750-fb0ec1d872c5"},
+				{"name":"Johnny Marr","short":"johnny(1)","start":"2013-08-24 17:45","end":"2013-08-24 18:30","mbId":"ff621094-2a76-401f-8398-b75b5fd2be24"},
+				{"name":"Imagine Dragons","short":"imagin(1)","start":"2013-08-24 18:50","end":"2013-08-24 19:35","mbId":"012151a8-0f9a-44c9-997f-ebd68b5389f9"},
+				{"name":"Tame Impala","short":"tameim(1)","start":"2013-08-24 19:55","end":"2013-08-24 20:45","mbId":"63aa26c3-d59b-4da4-84ac-716b54f1ef4d"},
+				{"name":"Jake Bugg","short":"jakebu(1)","start":"2013-08-24 21:10","end":"2013-08-24 22:00","mbId":"0d9905e6-add6-4713-94ca-9f686f9b5e9b"},
+				{"name":"Alt-J","short":"altj(1)","start":"2013-08-24 22:30","end":"2013-08-24 23:30","mbId":"fc7bbf00-fbaa-4736-986b-b3ac0266ca9b"}
+			]
+		},
+		{
+			"name":"BBC Radio 1 Dance Stage",
+			"events":[
+				{"name":"Night Works","short":"nightw(1)","start":"2013-08-24 12:30","end":"2013-08-24 13:00","mbId":"78aeb77f-7c9d-4a46-b961-8dec30b26ee7"},
+				{"name":"Big Black Delta","short":"bigbla(1)","start":"2013-08-24 13:15","end":"2013-08-24 13:55","mbId":"eab003ca-21bc-4cd4-8e46-9d4c4e2721ac"},
+				{"name":"Willy Moon","short":"willym(1)","start":"2013-08-24 14:10","end":"2013-08-24 14:50","mbId":"bc62880f-536e-45b4-89e0-1584c4069e8d"},
+				{"name":"Jagwar Ma","short":"jagwar(1)","start":"2013-08-24 15:05","end":"2013-08-24 15:45","mbId":"5b933654-f58b-438c-8652-90567e5495a1"},
+				{"name":"Redlight","short":"redlig(1)","start":"2013-08-24 16:00","end":"2013-08-24 16:40","mbId":"6d87044e-3b4c-4814-819a-5598d55b33de"},
+				{"name":"Flux Pavilion","short":"fluxpa(1)","start":"2013-08-24 16:55","end":"2013-08-24 17:40","mbId":"3ce513c5-bdd4-492c-a875-07e0f3e1993b"},
+				{"name":"A-Trak","short":"atrak(1)","start":"2013-08-24 17:55","end":"2013-08-24 18:40","mbId":"47ea59b7-81c2-4001-8ac3-567877b3172a"},
+				{"name":"Magnetic Man","short":"magnet(1)","start":"2013-08-24 19:00","end":"2013-08-24 20:00","mbId":"200e86d3-707e-4e55-94bd-20b0301df327"}
+			]
+		},
+		{
+			"name":"Lock Up Stage",
+			"events":[
+				{"name":"King Prawn","short":"kingpr(1)","start":"2013-08-24 18:55","end":"2013-08-24 19:40","mbId":"cad9ee5c-9694-4a65-bf88-06ebecfc4c40"},
+				{"name":"The Bronx","short":"thebro(1)","start":"2013-08-24 20:00","end":"2013-08-24 20:50","mbId":"66ca7462-753c-48d0-9fe7-80d4b0897d18"},
+				{"name":"Sick of It All","short":"sickof(1)","start":"2013-08-24 21:10","end":"2013-08-24 22:00","mbId":"e204ed91-3684-4561-b29b-d0b53f8459a7"},
+				{"name":"Tomahawk","short":"tomaha(1)","start":"2013-08-24 22:30","end":"2013-08-24 23:30","mbId":"947911f8-60bc-44ab-9782-f97020f15b43"}
+			]
+		},
+		{
+			"name":"Festival Republic Stage",
+			"events":[
+				{"name":"To Kill a King","short":"tokill(1)","start":"2013-08-24 13:30","end":"2013-08-24 14:00","mbId":"a9ff2150-7c20-4805-a2cd-dac1bfb0b530"},
+				{"name":"Balthazar","short":"baltha(1)","start":"2013-08-24 14:15","end":"2013-08-24 14:45","mbId":"91511517-ef93-4d71-a0f0-c858272af4a7"},
+				{"name":"Skaters","short":"skater(1)","start":"2013-08-24 15:00","end":"2013-08-24 15:30","mbId":"31e6a2f0-ce8d-49df-bf90-bc5822bee5b3"},
+				{"name":"Drenge","short":"drenge(1)","start":"2013-08-24 15:45","end":"2013-08-24 16:20","mbId":"b7f40a7c-0b93-45ad-9ae3-3bf6e28e9dd4"},
+				{"name":"Swim Deep","short":"swimde(1)","start":"2013-08-24 16:35","end":"2013-08-24 17:10","mbId":"85e67b0f-afd2-46c2-88b2-c3ba9b0883f2"},
+				{"name":"The 1975","short":"the197(1)","start":"2013-08-24 17:25","end":"2013-08-24 18:00","mbId":"5b6ebfe0-f72b-4902-bba9-74c8af0f1af0"},
+				{"name":"Splashh","short":"splash(1)","start":"2013-08-24 18:15","end":"2013-08-24 18:55","mbId":"5e319cb2-12f3-49c0-8e6a-271eae2aac5d"},
+				{"name":"Merchandise","short":"mercha(1)","start":"2013-08-24 19:15","end":"2013-08-24 19:55","mbId":"44c26f0c-7f46-4cf0-9673-f7aa1bec1e5b"},
+				{"name":"Tim Burgess","short":"timbur(1)","start":"2013-08-24 20:15","end":"2013-08-24 21:00","mbId":"f3a9f9c8-24e7-4465-9f2e-5ba02349e36c"},
+				{"name":"Lucy Rose","short":"lucyro(1)","start":"2013-08-24 21:20","end":"2013-08-24 22:05","mbId":"c79df192-153f-4cc3-b9bf-9c36bc797c73"},
+				{"name":"British Sea Power","short":"britis(1)","start":"2013-08-24 22:30","end":"2013-08-24 23:30","mbId":"8830afec-83b3-4213-aad0-f6377f1d73ac"}
+			]
+		},
+		{
+			"name":"BBC Radio 1Xtra Stage",
+			"events":[
+				{"name":"Etta Bond","short":"ettabo(1)","start":"2013-08-24 12:30","end":"2013-08-24 13:00","mbId":"0e818027-ef08-41f2-8a6c-7afd7747a6e4"},
+				{"name":"Broke'N'£nglish","short":"broken1(1)","start":"2013-08-24 13:15","end":"2013-08-24 13:50","mbId":"d407552d-e91d-4c8f-aa9f-e7e0725629a3"},
+				{"name":"Lunar C","short":"lunarc(1)","start":"2013-08-24 14:05","end":"2013-08-24 14:45","mbId":"aabe1341-0ee8-47c2-b425-455d2a022fd9"},
+				{"name":"DJ Semtex","short":"djsemt(1)","start":"2013-08-24 15:00","end":"2013-08-24 15:40","mbId":"d33ad126-ef3b-4ad1-86b4-e516bfbbf9b2"},
+				{"name":"Mic Righteous","short":"micrig(1)","start":"2013-08-24 15:55","end":"2013-08-24 16:40","mbId":"8f85a46a-c32a-4835-ba85-a2b1c29ae62b"},
+				{"name":"Giggs","short":"giggs(1)","start":"2013-08-24 16:55","end":"2013-08-24 17:40","mbId":"bb7dd5d7-95e6-46a0-9692-cb99134995b6"},
+				{"name":"Action Bronson","short":"action(1)","start":"2013-08-24 17:55","end":"2013-08-24 18:40","mbId":"031bc934-28c9-491a-8648-c078450187dc"},
+				{"name":"Devlin","short":"devlin(1)","start":"2013-08-24 19:00","end":"2013-08-24 20:00","mbId":"a2006708-8bc2-41bc-a9e9-72d14d7ce850"}
+			]
+		},
+		{
+			"name":"Main Stage",
+			"events":[
+				{"name":"Bury Tomorrow","short":"buryto(1)","start":"2013-08-25 12:30","end":"2013-08-25 13:10","mbId":"95c4e9ef-291b-4f94-8bc9-2b00e76eacb0"},
+				{"name":"We Are the In Crowd","short":"wearet(1)","start":"2013-08-25 13:30","end":"2013-08-25 14:15","mbId":"962ae8bb-9e0d-45c0-bfc1-542f3c019e3c"},
+				{"name":"Hadouken!","short":"hadouk(1)","start":"2013-08-25 14:35","end":"2013-08-25 15:20","mbId":"8c9200b8-8e05-41d5-836e-44a37905560e"},
+				{"name":"Editors","short":"editor(1)","start":"2013-08-25 15:40","end":"2013-08-25 16:30","mbId":"0efe858c-89e5-4e47-906a-356fa953fd6e"},
+				{"name":"The Lumineers","short":"thelum(1)","start":"2013-08-25 16:50","end":"2013-08-25 17:40","mbId":"bfcb6630-9b31-4e63-b11f-7b0363be72b5"},
+				{"name":"Fall Out Boy","short":"fallou(1)","start":"2013-08-25 18:00","end":"2013-08-25 18:50","mbId":"516cef4d-0718-4007-9939-f9b38af3f784"},
+				{"name":"Nine Inch Nails","short":"ninein(1)","start":"2013-08-25 19:15","end":"2013-08-25 20:30","mbId":"b7ffd2af-418f-4be2-bdd1-22f8b48613da"},
+				{"name":"Biffy Clyro","short":"biffyc(1)","start":"2013-08-25 21:00","end":"2013-08-25 23:30","mbId":"892500b7-09a6-4049-ba92-2d192dd70563"}
+			]
+		},
+		{
+			"name":"NME\/Radio 1 Stage",
+			"events":[
+				{"name":"AlunaGeorge","short":"alunag(1)","start":"2013-08-25 14:30","end":"2013-08-25 15:15","mbId":"e9da3ed5-eb9a-4f70-a0ed-4e59e380601f"},
+				{"name":"Tribes","short":"tribes(1)","start":"2013-08-25 15:35","end":"2013-08-25 16:20","mbId":"002ea9e4-4e04-4e6b-b488-2491916cfbbf"},
+				{"name":"Alex Clare","short":"alexcl(1)","start":"2013-08-25 16:40","end":"2013-08-25 17:25","mbId":"e8c8a3c3-29b6-421e-b977-fb6796231d41"},
+				{"name":"HAIM","short":"haim(1)","start":"2013-08-25 17:45","end":"2013-08-25 18:30","mbId":"aef06569-098f-4218-a577-b413944d9493"},
+				{"name":"City and Colour","short":"cityan(1)","start":"2013-08-25 18:50","end":"2013-08-25 19:35","mbId":"b1003bf1-25b8-41f4-a783-36060f987913"},
+				{"name":"Disclosure","short":"disclo(1)","start":"2013-08-25 19:55","end":"2013-08-25 20:45","mbId":"ae65c507-d9a0-4d42-9a6c-2b1f82158b9f"},
+				{"name":"Azealia Banks","short":"azeali(1)","start":"2013-08-25 21:10","end":"2013-08-25 22:00","mbId":"0c3505e7-d884-43cf-9028-d318607190a4"},
+				{"name":"Phoenix","short":"phoeni(1)","start":"2013-08-25 22:30","end":"2013-08-25 23:30","mbId":"8d455809-96b3-4bb6-8829-ea4beb580d35"}
+			]
+		},
+		{
+			"name":"BBC Radio 1 Dance Stage",
+			"events":[
+				{"name":"Jacob Plant feat. Majestic","short":"jacobp(1)","start":"2013-08-25 17:30","end":"2013-08-25 18:00","mbId":"e1f8e5d8-2fb5-4e43-9940-5119a99cf9e9"},
+				{"name":"Fred V & Grafix","short":"fredvg(1)","start":"2013-08-25 18:15","end":"2013-08-25 18:55","mbId":"d01d66ae-be95-42c3-86c4-fff502690a33"},
+				{"name":"Charli XCX","short":"charli(1)","start":"2013-08-25 19:10","end":"2013-08-25 19:50","mbId":"260b6184-8828-48eb-945c-bc4cb6fc34ca"},
+				{"name":"Dillon Francis","short":"dillon(1)","start":"2013-08-25 20:05","end":"2013-08-25 20:55","mbId":"1c294418-722f-45a3-a24d-910f9b6f1502"},
+				{"name":"Baauer","short":"baauer(1)","start":"2013-08-25 21:10","end":"2013-08-25 22:05","mbId":"61a54a1e-3fa1-4ccc-bfc2-86c1a27e27de"},
+				{"name":"Knife Party","short":"knifep(1)","start":"2013-08-25 22:30","end":"2013-08-25 23:30","mbId":"82a8aee6-0772-4399-9238-b5903eab413f"}
+			]
+		},
+		{
+			"name":"Rock Stage",
+			"events":[
+				{"name":"Heaven's Basement","short":"heaven(1)","start":"2013-08-25 12:30","end":"2013-08-25 13:00","mbId":"c2c4d56a-d599-4a18-bd2f-ae644e2198cc"},
+				{"name":"Arcane Roots","short":"arcane(1)","start":"2013-08-25 13:15","end":"2013-08-25 13:55","mbId":"270d9798-9984-49fe-b525-70e39e0ffc76"},
+				{"name":"Crossfaith","short":"crossf(1)","start":"2013-08-25 14:15","end":"2013-08-25 15:00","mbId":"8c770687-7b7a-4c3c-a2ea-f954440bfa43"},
+				{"name":"And So I Watch You from Afar","short":"andsoi(1)","start":"2013-08-25 15:20","end":"2013-08-25 16:05","mbId":"0fb7d725-4dfd-45d2-944c-6ffa375a142d"},
+				{"name":"Filter","short":"filter(1)","start":"2013-08-25 16:25","end":"2013-08-25 17:10","mbId":"6ae51665-8261-4ae5-883f-1899651ad31b"},
+				{"name":"Gallows","short":"gallow(1)","start":"2013-08-25 17:30","end":"2013-08-25 18:20","mbId":"4cb159df-bd09-4f42-bfec-09b6a248a52f"},
+				{"name":"Funeral for a Friend","short":"funera(1)","start":"2013-08-25 18:40","end":"2013-08-25 19:30","mbId":"199d0ab3-22c0-4c00-b99d-257f591dda1f"},
+				{"name":"Shikari Sound System","short":"shikar(1)","start":"2013-08-25 20:00","end":"2013-08-25 21:00","mbId":"na"}
+			]
+		},
+		{
+			"name":"Festival Republic Stage",
+			"events":[
+				{"name":"The Family Rain","short":"thefam(1)","start":"2013-08-25 15:45","end":"2013-08-25 16:20","mbId":"f57d7093-db4e-441b-bca2-40a42a4f3c5c"},
+				{"name":"Twenty One Pilots","short":"twenty(1)","start":"2013-08-25 16:35","end":"2013-08-25 17:10","mbId":"a6c6897a-7415-4f8d-b5a5-3a5e05f3be67"},
+				{"name":"Chapel Club","short":"chapel(1)","start":"2013-08-25 17:25","end":"2013-08-25 18:00","mbId":"ab729b59-92b1-4cda-95d3-173f4000faf8"},
+				{"name":"California X","short":"califo(1)","start":"2013-08-25 18:15","end":"2013-08-25 18:55","mbId":"4d89b968-cda2-471b-87c5-873436a100ae"},
+				{"name":"Parquet Courts","short":"parque(1)","start":"2013-08-25 19:15","end":"2013-08-25 19:55","mbId":"e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c"},
+				{"name":"The Jim Jones Revue","short":"thejim(1)","start":"2013-08-25 20:15","end":"2013-08-25 21:00","mbId":"0c7daca5-9955-477b-882a-362a49d05450"},
+				{"name":"Pure Love","short":"purelo(1)","start":"2013-08-25 21:20","end":"2013-08-25 22:05","mbId":"d7f6063c-8c2a-45ae-a55f-dd94d2f2b8b9"},
+				{"name":"Spector","short":"specto(1)","start":"2013-08-25 22:30","end":"2013-08-25 23:30","mbId":"67dd20f8-ded2-4dde-b4aa-729428fcc8d0"}
+			]
+		},
+		{
+			"name":"BBC Radio 1Xtra Stage",
+			"events":[
+				{"name":"Knytro","short":"knytro(1)","start":"2013-08-25 12:30","end":"2013-08-25 13:00","mbId":"na"},
+				{"name":"Context","short":"contex(1)","start":"2013-08-25 13:15","end":"2013-08-25 13:50","mbId":"8db4dd44-5db5-42db-951a-149de4816570"},
+				{"name":"Ghostpoet","short":"ghostp(1)","start":"2013-08-25 14:05","end":"2013-08-25 14:45","mbId":"0c2393aa-7fe3-4314-81de-b91baf4982c6"},
+				{"name":"Mikill Pane","short":"mikill(1)","start":"2013-08-25 15:00","end":"2013-08-25 15:40","mbId":"92351dab-ff32-4257-a298-538676e37814"},
+				{"name":"David Rodigan","short":"davidr(1)","start":"2013-08-25 15:55","end":"2013-08-25 16:40","mbId":"c44f51bb-22c9-42d8-8aee-f7649c8fa5e0"},
+				{"name":"Ms. Dynamite","short":"msdyna(1)","start":"2013-08-25 16:55","end":"2013-08-25 17:40","mbId":"c0c5e158-d61d-4043-a0eb-dc6cc1e0a539"},
+				{"name":"Angel Haze","short":"angelh(1)","start":"2013-08-25 17:55","end":"2013-08-25 18:40","mbId":"96003ca6-5c03-4771-8b94-dbdc74949125"},
+				{"name":"Wretch 32","short":"wretch(1)","start":"2013-08-25 19:00","end":"2013-08-25 20:00","mbId":"9a3b2d4a-2da4-49c6-9ab3-c680434dbabf"}
+			]
+		}
+	]
+}

@@ -1,0 +1,539 @@
+{
+	"name":"Big Green Week 2013",
+	"locations":[
+		{
+			"name":"City Hall",
+			"events":[
+				{"name":"Schumacher Society Lectures:- Beyond Sustainability - Towards a Regenerative Economy","short":"schuma(1)","start":"2013-06-15 10:00","end":"2013-06-15 17:00"},
+				{"name":"Fare Fashion:- BIG Green Week Launch Party","short":"farefa(1)","start":"2013-06-15 19:30","end":"2013-06-15 23:00"}
+			]
+		},
+		{
+			"name":"Bristol Harbourside",
+			"events":[
+				{"name":"Bristol Festival of Nature","short":"bristo(1)","start":"2013-06-15 10:00","end":"2013-06-15 17:00"}
+			]
+		},
+		{
+			"name":"Arnolfini",
+			"events":[
+				{"name":"Ride and Design: A tandem celebration of bicycles and design","short":"ridean(1)","start":"2013-06-15 09:00","end":"2013-06-15 17:00"}
+			]
+		},
+		{
+			"name":"Southville Centre",
+			"events":[
+				{"name":"Southville Centre's Green Day","short":"southv1(1)","start":"2013-06-15 10:00","end":"2013-06-15 15:00"}
+			]
+		},
+		{
+			"name":"City Centre Ferry Landing",
+			"events":[
+				{"name":"Bristol Ferry: Childrens' Storytelling and puppet show","short":"bristo1(1)","start":"2013-06-15 12:00","end":"2013-06-15 12:40"}
+			]
+		},
+		{
+			"name":"Arnolfini Boat Tours",
+			"events":[
+				{"name":"Seeds of Change Floating Garden","short":"seedso(1)","start":"2013-06-15 11:30","end":"2013-06-15 19:00"}
+			]
+		},
+		{
+			"name":"Arnos Vale Cemetry",
+			"events":[
+				{"name":"BIG insect walk","short":"bigins(1)","start":"2013-06-15 13:30","end":"2013-06-15 15:00"}
+			]
+		},
+		{
+			"name":"Bristol Harbourside",
+			"events":[
+				{"name":"Bristol Festival of Nature","short":"bristo(2)","start":"2013-06-16 10:00","end":"2013-06-16 17:00"}
+			]
+		},
+		{
+			"name":"Arnolfini Boat Tours",
+			"events":[
+				{"name":"Seeds of Change Floating Garden","short":"seedso(2)","start":"2013-06-16 11:30","end":"2013-06-16 19:00"}
+			]
+		},
+		{
+			"name":"Millenium Square",
+			"events":[
+				{"name":"Bristol's Biggest Bike Ride","short":"bristo3(1)","start":"2013-06-16 09:00","end":"2013-06-16 10:30"}
+			]
+		},
+		{
+			"name":"Arnolfini",
+			"events":[
+				{"name":"Film Festival: Money and Life","short":"filmfe(1)","start":"2013-06-16 10:00","end":"2013-06-16 11:30"},
+				{"name":"Film Festival: Shining Night - A portrait of Composer Morten Laurisden","short":"filmfe1(1)","start":"2013-06-16 12:00","end":"2013-06-16 13:30"},
+				{"name":"Tony Hawks: Playing the Moldovans at Tennis (Film and Q&A)","short":"tonyha(1)","start":"2013-06-16 14:30","end":"2013-06-16 17:00"},
+				{"name":"Ugly Animal Preservation Society","short":"uglyan(1)","start":"2013-06-16 18:00","end":"2013-06-16 20:00"}
+			]
+		},
+		{
+			"name":"Stables Courtyard, Ashton Court",
+			"events":[
+				{"name":"Walk with Satish Kumar and Tree Sisters","short":"walkwi(1)","start":"2013-06-16 10:00","end":"2013-06-16 13:00"}
+			]
+		},
+		{
+			"name":"City Centre Ferry Landing",
+			"events":[
+				{"name":"Bristol Ferry - Coffee, Croissants and Classical Music","short":"bristo4(1)","start":"2013-06-16 10:30","end":"2013-06-16 12:00"}
+			]
+		},
+		{
+			"name":"Bristol Forest School",
+			"events":[
+				{"name":"Fathers' Day Family Woodland Adventure","short":"father(1)","start":"2013-06-16 13:00","end":"2013-06-16 16:00"}
+			]
+		},
+		{
+			"name":"Queens Square",
+			"events":[
+				{"name":"African Sambistas dance workshop with live drumming","short":"africa(1)","start":"2013-06-16 14:00","end":"2013-06-16 17:00"}
+			]
+		},
+		{
+			"name":"Cafe at St Stephen's Church",
+			"events":[
+				{"name":"Opening the Green Heart: Hope Led, Not Fear Driven","short":"openin(1)","start":"2013-06-16 17:00","end":"2013-06-16 19:00"}
+			]
+		},
+		{
+			"name":"Beatroot Cafe",
+			"events":[
+				{"name":"Pot Luck Vegan Feast","short":"potluc(1)","start":"2013-06-16 19:30","end":"2013-06-16 23:00"}
+			]
+		},
+		{
+			"name":"Engineers House",
+			"events":[
+				{"name":"Bees,Blooms and Bristol Seminar","short":"beesbl(1)","start":"2013-06-17 09:00","end":"2013-06-17 11:00"}
+			]
+		},
+		{
+			"name":"Floating Harbour",
+			"events":[
+				{"name":"Bristol Ferry: Green Monday","short":"bristo6(1)","start":"2013-06-17 09:00","end":"2013-06-17 18:00"}
+			]
+		},
+		{
+			"name":"Create Centre",
+			"events":[
+				{"name":"Bristol Green Capital Workshops - Water","short":"bristo7(1)","start":"2013-06-17 09:30","end":"2013-06-17 12:30"}
+			]
+		},
+		{
+			"name":"Lawrence Weston Community Farm",
+			"events":[
+				{"name":"Community Green Woodworking","short":"commun(1)","start":"2013-06-17 11:00","end":"2013-06-17 14:00"}
+			]
+		},
+		{
+			"name":"College Green",
+			"events":[
+				{"name":"Naming and Knowing: Walking and Befriending the Earth","short":"naming(1)","start":"2013-06-17 11:00","end":"2013-06-17 13:00"}
+			]
+		},
+		{
+			"name":"At Bristol",
+			"events":[
+				{"name":"At-Bristol: Behind the Scenes Sustainability Tour","short":"atbris1(1)","start":"2013-06-17 14:00","end":"2013-06-17 15:00"}
+			]
+		},
+		{
+			"name":"The Freedom Room, Hamilton House",
+			"events":[
+				{"name":"Tree Sisters: A Woman's Place","short":"treesi(1)","start":"2013-06-17 19:00","end":"2013-06-17 21:00"}
+			]
+		},
+		{
+			"name":"City Hall",
+			"events":[
+				{"name":"Bristol Green Capital Changing the World","short":"bristo8(1)","start":"2013-06-17 19:00","end":"2013-06-17 21:00"}
+			]
+		},
+		{
+			"name":"Happytatm Croft House, Stokes Croft",
+			"events":[
+				{"name":"Garbage Warrior (Film and Talk)","short":"garbag(1)","start":"2013-06-17 19:30","end":"2013-06-17 21:30"}
+			]
+		},
+		{
+			"name":"Create Centre",
+			"events":[
+				{"name":"Bristol Green Capital Workshops - Energy","short":"bristo9(1)","start":"2013-06-18 09:00","end":"2013-06-18 12:00"}
+			]
+		},
+		{
+			"name":"Business West at Leigh Court",
+			"events":[
+				{"name":"Putting 'Green' at the Heart of Your Business","short":"puttin(1)","start":"2013-06-18 09:30","end":"2013-06-18 12:30"}
+			]
+		},
+		{
+			"name":"Cafe at St Stephen's Church",
+			"events":[
+				{"name":"Sharing Eden: Three World Faiths Share a Garden Story","short":"sharin(1)","start":"2013-06-18 11:00","end":"2013-06-18 12:30"}
+			]
+		},
+		{
+			"name":"Bristol Ferries - Arnolfini Pontoon",
+			"events":[
+				{"name":"Bristol Ferry Share Offer","short":"bristo11(1)","start":"2013-06-18 17:00","end":"2013-06-18 17:45"}
+			]
+		},
+		{
+			"name":"Arts Lecture Theatre Woodlands Road, University of Bristol",
+			"events":[
+				{"name":"The People and the Olive (Film & Talk)","short":"thepeo(1)","start":"2013-06-18 18:00","end":"2013-06-18 20:00"}
+			]
+		},
+		{
+			"name":"Hamilton House, Stokes Croft",
+			"events":[
+				{"name":"Poverty, energy and social justice","short":"povert(1)","start":"2013-06-18 18:00","end":"2013-06-18 19:30"}
+			]
+		},
+		{
+			"name":"St Werburghs City Farm",
+			"events":[
+				{"name":"Summer Solstice Herb Walk","short":"summer(1)","start":"2013-06-18 18:30","end":"2013-06-18 20:30"}
+			]
+		},
+		{
+			"name":"Arnolfini",
+			"events":[
+				{"name":"Business Innovation with Richard Branson","short":"busine1(1)","start":"2013-06-18 18:30","end":"2013-06-18 20:00"},
+				{"name":"Economic Innovation with Charles Eisenstein and Jacqueline McGlade","short":"econom(1)","start":"2013-06-18 20:30","end":"2013-06-18 22:00"}
+			]
+		},
+		{
+			"name":"Arup (63 St Thomas Street)",
+			"events":[
+				{"name":"Bristol Green Capital Workshops - Creating Places for People","short":"bristo12(1)","start":"2013-06-19 09:30","end":"2013-06-19 16:30"}
+			]
+		},
+		{
+			"name":"St Nicolas' Market Exchange Hall",
+			"events":[
+				{"name":"Greeniversity Bristol Launch","short":"greeni(1)","start":"2013-06-19 11:00","end":"2013-06-19 14:00"}
+			]
+		},
+		{
+			"name":"Bristol Cathedral",
+			"events":[
+				{"name":"Feeding the World's 10 Billion without Destroying the Planet","short":"feedin(1)","start":"2013-06-19 11:00","end":"2013-06-19 12:30"}
+			]
+		},
+		{
+			"name":"City Centre Ferry Landing",
+			"events":[
+				{"name":"Bristol Ferry: City Docks History Tour","short":"bristo14(1)","start":"2013-06-19 15:30","end":"2013-06-19 16:30"}
+			]
+		},
+		{
+			"name":"University of Bristol Botanic Garden",
+			"events":[
+				{"name":"Science Picnic: Extraordinary Flora","short":"scienc(1)","start":"2013-06-19 18:30","end":"2013-06-19 20:30"}
+			]
+		},
+		{
+			"name":"A secret evening venue",
+			"events":[
+				{"name":"Magic Latern Film Club: BIG Green Screening","short":"magicl(1)","start":"2013-06-19 19:00","end":"2013-06-19 22:00"}
+			]
+		},
+		{
+			"name":"City Hall",
+			"events":[
+				{"name":"The State of Nature, The Next Step","short":"thesta(1)","start":"2013-06-19 19:30","end":"2013-06-19 21:00"}
+			]
+		},
+		{
+			"name":"City Academy, Lawrence Hill",
+			"events":[
+				{"name":"African Sambistas Dance Workshop","short":"africa1(1)","start":"2013-06-19 19:30","end":"2013-06-19 21:00"}
+			]
+		},
+		{
+			"name":"Create Centre",
+			"events":[
+				{"name":"Bristol Green Capital Workshops - Organic Food in the Community","short":"bristo15(1)","start":"2013-06-20 09:30","end":"2013-06-20 16:00"}
+			]
+		},
+		{
+			"name":"Bristol Cathedral",
+			"events":[
+				{"name":"Song of the Earth: St Francis, Happiness, Community and Communion","short":"songof(1)","start":"2013-06-20 11:00","end":"2013-06-20 12:30"}
+			]
+		},
+		{
+			"name":"Arnolfini",
+			"events":[
+				{"name":"Tony Juniper: What has Nature ever done for us?","short":"tonyju(1)","start":"2013-06-20 12:30","end":"2013-06-20 13:30"},
+				{"name":"Film Festival: Fierce Green Fire - The Battle for a Living Planet","short":"filmfe2(1)","start":"2013-06-20 14:30","end":"2013-06-20 16:15"},
+				{"name":"Colin Beavan: No Impact Man (Film and Q&A)","short":"colinb(1)","start":"2013-06-20 17:00","end":"2013-06-20 19:00"},
+				{"name":"An Evening of Fast Food!","short":"aneven(1)","start":"2013-06-20 20:00","end":"2013-06-20 22:00"}
+			]
+		},
+		{
+			"name":"St Stephen's Church",
+			"events":[
+				{"name":"A truth Mandala: Circle of Devotion and Hope for Creation and Environment","short":"atruth(1)","start":"2013-06-20 18:00","end":"2013-06-20 20:00"}
+			]
+		},
+		{
+			"name":"Baristas Coffee Collective, 29 Victoria Street",
+			"events":[
+				{"name":"Drying for Freedom (Film + Q&A)","short":"drying(1)","start":"2013-06-20 18:30","end":"2013-06-20 20:30"}
+			]
+		},
+		{
+			"name":"The Looking Glass, 39 High Street",
+			"events":[
+				{"name":"Theatre: Daughter of Les with Natalie Fee","short":"theatr2(1)","start":"2013-06-20 19:30","end":"2013-06-20 21:00"}
+			]
+		},
+		{
+			"name":"City Centre Ferry Landing",
+			"events":[
+				{"name":"Bristol Ferry: Boat Quiz","short":"bristo16(1)","start":"2013-06-20 20:00","end":"2013-06-20 22:00"}
+			]
+		},
+		{
+			"name":"Create Centre",
+			"events":[
+				{"name":"Bristol Green Capital Workshops - Waste","short":"bristo17(1)","start":"2013-06-21 09:30","end":"2013-06-21 12:00"}
+			]
+		},
+		{
+			"name":"Systems Centre, Merchant Venturers Building, Woodland Road",
+			"events":[
+				{"name":"Energised comunities: research in practice","short":"energi(1)","start":"2013-06-21 10:00","end":"2013-06-21 17:30"}
+			]
+		},
+		{
+			"name":"Folk House",
+			"events":[
+				{"name":"Greeniversity Taster Sessions","short":"greeni1(1)","start":"2013-06-21 10:00","end":"2013-06-21 16:00"}
+			]
+		},
+		{
+			"name":"Bristol Solar City Pavillion, College Green",
+			"events":[
+				{"name":"Summer Solstice Celebration of Solar and Renewable Energies: Business Day","short":"summer1(1)","start":"2013-06-21 10:00","end":"2013-06-21 17:00"}
+			]
+		},
+		{
+			"name":"Methodist Church Hall, Westbury on Trym",
+			"events":[
+				{"name":"Westbury on Trym Country Market","short":"westbu(1)","start":"2013-06-21 10:30","end":"2013-06-21 11:30"}
+			]
+		},
+		{
+			"name":"Temple Quay Square",
+			"events":[
+				{"name":"Temple Quay Green Travel Show","short":"temple1(1)","start":"2013-06-21 12:00","end":"2013-06-21 14:00"}
+			]
+		},
+		{
+			"name":"Arnolfini",
+			"events":[
+				{"name":"George Clarke: Amazing Spaces","short":"george(1)","start":"2013-06-21 12:30","end":"2013-06-21 13:30"},
+				{"name":"Film Festival: Bimblebox","short":"filmfe3(1)","start":"2013-06-21 14:30","end":"2013-06-21 16:00"},
+				{"name":"Beyond (Party) Politics","short":"beyond(1)","start":"2013-06-21 18:30","end":"2013-06-21 20:00"},
+				{"name":"Beyond (Eco) Campaigning","short":"beyond1(1)","start":"2013-06-21 20:30","end":"2013-06-21 22:00"}
+			]
+		},
+		{
+			"name":"At Bristol",
+			"events":[
+				{"name":"At-Bristol: \"Bristopia\" (After Hours adult event)","short":"atbris2(1)","start":"2013-06-21 18:30","end":"2013-06-21 22:00"}
+			]
+		},
+		{
+			"name":"City Centre Ferry Landing",
+			"events":[
+				{"name":"Bristol Ferry, Cabaret Evening","short":"bristo19(1)","start":"2013-06-21 10:30","end":"2013-06-21 19:30"}
+			]
+		},
+		{
+			"name":"Arnos Vale Cemetery (starting from East Lodge)",
+			"events":[
+				{"name":"Solstice Cemetery Tour","short":"solsti(1)","start":"2013-06-21 19:30","end":"2013-06-21 21:00"}
+			]
+		},
+		{
+			"name":"Outside Colston Hall",
+			"events":[
+				{"name":"The Schumacher College Sched Talks ask: What if?","short":"thesch(1)","start":"2013-06-21 12:30","end":"2013-06-21 19:00"}
+			]
+		},
+		{
+			"name":"Hamilton House",
+			"events":[
+				{"name":"Food banks and Food Sovereignty","short":"foodba(1)","start":"2013-06-21 14:00","end":"2013-06-21 16:00"}
+			]
+		},
+		{
+			"name":"The Looking Glass, 39 High Street",
+			"events":[
+				{"name":"Theatre:Daughter of Les with Natalie Fee","short":"theatr2(2)","start":"2013-06-21 19:30","end":"2013-06-21 21:00"}
+			]
+		},
+		{
+			"name":"City Centre Ferry Landing",
+			"events":[
+				{"name":"Bristol Ferry: Children's Storytelling & Puppet Show","short":"bristo1(2)","start":"2013-06-22 11:00","end":"2013-06-22 12:00"}
+			]
+		},
+		{
+			"name":"Outside Colston Hall",
+			"events":[
+				{"name":"The Schumacher SCHed Talks ask: What If?","short":"thesch1(1)","start":"2013-06-22 12:30","end":"2013-06-22 19:00"}
+			]
+		},
+		{
+			"name":"Bristol Solar City Pavillion on College Green",
+			"events":[
+				{"name":"Supporting Renewable Energy Projects","short":"suppor(1)","start":"2013-06-22 09:30","end":"2013-06-22 16:30"},
+				{"name":"Summer Solstice Celebration of Solar and Renewable Energies: Community Day","short":"summer2(1)","start":"2013-06-22 10:00","end":"2013-06-22 20:00"}
+			]
+		},
+		{
+			"name":"Green Orchards, Hollywood Lane, Compton Greenfield",
+			"events":[
+				{"name":"Zero Carbon House Tour","short":"zeroca(1)","start":"2013-06-22 10:00","end":"2013-06-22 16:00"}
+			]
+		},
+		{
+			"name":"Amphitheatre, Bristol Harbourside",
+			"events":[
+				{"name":"The Ultrabike: A Miracle of Science","short":"theult(1)","start":"2013-06-22 11:00","end":"2013-06-22 15:00"}
+			]
+		},
+		{
+			"name":"Architecture Centre",
+			"events":[
+				{"name":"The Architecture Centre Family Afternoon","short":"thearc(1)","start":"2013-06-22 12:00","end":"2013-06-22 16:00"}
+			]
+		},
+		{
+			"name":"The Island",
+			"events":[
+				{"name":"Bristol Urban Garden Party","short":"bristo21(1)","start":"2013-06-22 12:00","end":"2013-06-22 17:00"}
+			]
+		},
+		{
+			"name":"Arnolfini",
+			"events":[
+				{"name":"Alice Roberts: Survivors of the Ice Age","short":"alicer(1)","start":"2013-06-22 12:30","end":"2013-06-22 13:30"},
+				{"name":"Wild Writing: Poetry Workshop with Susan Richardson","short":"wildwr(1)","start":"2013-06-22 13:00","end":"2013-06-22 16:00"},
+				{"name":"Poetry with John Hegley and Susan Richardson","short":"poetry(1)","start":"2013-06-22 18:00","end":"2013-06-22 20:00"},
+				{"name":"Music with Three Cane Whale","short":"musicw(1)","start":"2013-06-22 20:30","end":"2013-06-22 22:30"}
+			]
+		},
+		{
+			"name":"Arnolfini Boat Tours",
+			"events":[
+				{"name":"Seeds of Change Floating Garden","short":"seedso(3)","start":"2013-06-22 17:30","end":"2013-06-22 19:00"}
+			]
+		},
+		{
+			"name":"Cafe Kino, 108 Stokes Croft",
+			"events":[
+				{"name":"Green Party Social","short":"greenp(1)","start":"2013-06-22 19:30","end":"2013-06-22 22:00"}
+			]
+		},
+		{
+			"name":"Arnos Vale Cemetery (East Lodge)",
+			"events":[
+				{"name":"Summer Flowers & Butterflies Tour","short":"summer3(1)","start":"2013-06-22 13:30","end":"2013-06-22 15:00"}
+			]
+		},
+		{
+			"name":"Averys Wine Cellars",
+			"events":[
+				{"name":"Jancis Robinson: Organic & Biodynamic Wine Tasting at Averys","short":"jancis(1)","start":"2013-06-22 15:00","end":"2013-06-22 17:00"}
+			]
+		},
+		{
+			"name":"Venue tbc",
+			"events":[
+				{"name":"Energising England Friends of the Earth","short":"energi1(1)","start":"2013-06-22 17:00","end":"2013-06-22 18:30"}
+			]
+		},
+		{
+			"name":"City Centre Ferry Landing",
+			"events":[
+				{"name":"Bristol Ferry: Coffee, Croissants & Classical Music","short":"bristo4(2)","start":"2013-06-23 10:30","end":"2013-06-23 12:00"}
+			]
+		},
+		{
+			"name":"outside Colston Hall",
+			"events":[
+				{"name":"The Schumacher College SCHed Talks ask: What if","short":"thesch(2)","start":"2013-06-23 12:30","end":"2013-06-23 19:00"}
+			]
+		},
+		{
+			"name":"Arnolfini",
+			"events":[
+				{"name":"Film Festival: A river changes course","short":"filmfe4(1)","start":"2013-06-23 12:00","end":"2013-06-23 13:30"},
+				{"name":"Film Festival: More than Honey","short":"filmfe5(1)","start":"2013-06-23 14:00","end":"2013-06-23 15:30"},
+				{"name":"Film Festival: The Moo Man","short":"filmfe6(1)","start":"2013-06-23 16:00","end":"2013-06-23 17:45"}
+			]
+		},
+		{
+			"name":"Millenium Square",
+			"events":[
+				{"name":"Electric Vehicle Show","short":"electr(1)","start":"2013-06-23 11:00","end":"2013-06-23 17:00"}
+			]
+		},
+		{
+			"name":"Centre",
+			"events":[
+				{"name":"Cascade Steps Music stage","short":"cascad(1)","start":"2013-06-23 11:00","end":"2013-06-23 18:00"}
+			]
+		},
+		{
+			"name":"Park Street",
+			"events":[
+				{"name":"Park Street Playground","short":"parkst1(1)","start":"2013-06-23 11:00","end":"2013-06-23 13:00"},
+				{"name":"Atmosphere Electric Bike Championship","short":"atmosp(1)","start":"2013-06-23 14:00","end":"2013-06-23 16:00"}
+			]
+		},
+		{
+			"name":"Arnolfini Boat Tours",
+			"events":[
+				{"name":"Arnolfini Boat Tours: Seeds of Change Floating Garden","short":"arnolf2(1)","start":"2013-06-23 17:30","end":"2013-06-23 19:00"}
+			]
+		},
+		{
+			"name":"Bristol Solar City Pavillion, College Green",
+			"events":[
+				{"name":"Summer Solstice Celebration of Solar and Renewable Energies: Family Solar Day","short":"summer4(1)","start":"2013-06-23 10:00","end":"2013-06-23 17:00"}
+			]
+		},
+		{
+			"name":"College Green Raod",
+			"events":[
+				{"name":"Mobile Sorting Office 451","short":"mobile(1)","start":"2013-06-23 11:00","end":"2013-06-23 18:00"}
+			]
+		},
+		{
+			"name":"Centre, Corn Street, Baldwin Street & Kind Street",
+			"events":[
+				{"name":"Make Sundays Special with George Ferguson","short":"makesu(1)","start":"2013-06-23 11:00","end":"2013-06-23 16:00"}
+			]
+		},
+		{
+			"name":"Centre, St Augustines Parade",
+			"events":[
+				{"name":"Extreme Mountain Bike Show & Flatland BMX Show","short":"extrem(1)","start":"2013-06-23 12:00","end":"2013-06-23 17:00"}
+			]
+		}
+	]
+}

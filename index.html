@@ -1,24 +1,92 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>The name of the app</title>
-    <!-- Include the stylesheets you need for the Views components -->
-    <!-- See https://developer.spotify.com/technologies/apps/docs/preview/views/ -->
-    <link rel="stylesheet" href="$views/css/image.css">
-    <link rel="stylesheet" href="$views/css/list.css">
-    <link rel="stylesheet" href="$views/css/buttons.css">
-    <!-- <link rel="stylesheet" href="$views/css/throbber.css"> -->
-    <link rel="stylesheet" href="css/style.css">
-    <!-- If you are using the preview SDK for webplayer then uncomment the script below -->
-    <!--script src="http://d1hza3lyffsoht.cloudfront.net/preview-sdk/bootstrap.js"></script-->
-  </head>
-  <body>
-    <h1></h1>
-    <div id="albumCoverContainer"></div>
-    <div id="buttonContainer"></div>
-    <div id="playlistContainer"></div>
-    <script src="scripts/main.js"></script>
-  </body>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Festival Head</title>
+		<!-- Include the stylesheets you need for the Views components -->
+		<!-- See https://developer.spotify.com/technologies/apps/docs/preview/views/ -->
+		
+		
+		
+		
+		
+		<link rel="stylesheet" href="$views/css/image.css">
+		<link rel="stylesheet" href="$views/css/list.css">
+		<link rel="stylesheet" href="$views/css/buttons.css">
+		<!-- <link rel="stylesheet" href="$views/css/throbber.css"> -->
+		
+		
+	<link rel="stylesheet" type='text/css' href="css/bootstrap.min.css"/>
+	<link rel="stylesheet" type='text/css' href="css/bootstrap-responsive.min.css"/>
+		<link rel="stylesheet" href="css/style.css">
+		
+		
+		
+		<!-- If you are using the preview SDK for webplayer then uncomment the script below -->
+		<!--script src="http://d1hza3lyffsoht.cloudfront.net/preview-sdk/bootstrap.js"></script-->
+	</head>
+	<body>
+		<section class="wrap container-fluid">
+			<section class="row-fluid landing">
+				<section class="span2"><br/></section>
+				<section class="span8">
+					<section class="row-fluid">
+						<h1 class='hBig'>Festivals with artists</h1>
+					</section>
+					<section class="row-fluid">
+							<h1 class='tCenter broken_down' data-box="portfolio"></h1>
+								<div id="festivallist">
+								
+								</div>
+					</section>
+				</section>
+				<section class="span2"><br/></section>
+			</section>
+		</section>
+		
+		
+		<section class="myStuff">
+
+
+	<!-- SOCIAL ICONS -->
+
+	<ul class="social unstyled">
+		<li class="fb">
+			<a href="#" rel="tooltip" title="Facebook">
+				<section class="fb-img"></section>
+			</a>
+		</li>
+		<li class="twitter">
+			<a href="#" rel="tooltip" title="Twitter">
+				<section class="twitter-img"></section>
+			</a>
+		</li>
+		<li class="gplus">
+			<a href="#" rel="tooltip" title="Google+">
+				<section class="gplus-img"></section>
+			</a>
+		</li>
+	</ul>
+
+<!-- 
+	<section class="wall bgred">
+		<div class="loader">
+			<h1 class="hBig">Loading ... </h1>
+			
+		</div>
+	</section>
+ -->
+
+	<canvas id="canvas-bg"></canvas>
+
+	<!-- THIS IS BACKGROND BOX -->
+	<section class='bgbox'>
+		<section id="bgback" class="bgred" acKey="active"></section>
+		<section id="bgfront" acKey="disabled"></section>
+	</section>
+</section>
+
+		<script src="scripts/main.js"></script>
+	</body>
 </html>
